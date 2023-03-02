@@ -1,0 +1,29 @@
+#gameContainer {
+    text-align: center;
+}
+
+#gameBoard {
+    border: 3px solid blue;
+    /* background-color: white; */
+}
+
+#scoreText {
+    font-family: 'Permanent Marker',cursive;
+    font-size: 30px;
+    color: red;
+}
+
+#resetBtn {
+    font-size: 20px;
+    width: 100px;
+    color: blue;
+    background-color: yellow;
+    height: 50px;
+    border: 3px solid;
+    border-radius: 25px;
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    -ms-border-radius: 25px;
+    -o-border-radius: 25px;
+    cursor: pointer;
+}
